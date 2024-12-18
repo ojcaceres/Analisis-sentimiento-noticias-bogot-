@@ -135,4 +135,21 @@ plt.show()
 ```
 
 Este código genera una nube de palabras a partir del texto agregado de todas las transcripciones, ayudando a visualizar las palabras más frecuentes en las noticias analizadas.
-```
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Por favor, abre un **Issue** o un **Pull Request** con tus sugerencias, correcciones o mejoras. Antes de contribuir, revisa las normas internas del proyecto y asegúrate de que tus aportes estén alineados con el objetivo general del proyecto.
+
+## Licencia
+
+Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+## Contacto
+
+Para más información, dudas o colaboración, contactarse a través de:
+
+- Correo: oj.caceres@uniandes.edu.co
+- LinkedIn: https://www.linkedin.com/in/oswaldo-jose-caceres-leal/
+
+---
+
