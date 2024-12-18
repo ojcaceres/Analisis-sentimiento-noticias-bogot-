@@ -138,7 +138,7 @@ This code produces a word cloud from the aggregated text of all transcriptions, 
 
 ## Contributions
 
-Contributions are welcome. Please open an **Issue** or a **Pull Request** with your suggestions, fixes, or improvements. Before contributing, review the project’s internal guidelines and ensure your contributions align with the overall objectives.
+Contributions are welcome. Please open an **Issue** or a **Pull Request** with your suggestions, fixes, or improvements. Before contributing, review the project’s internal guidelines and ensure your contributions align with the general objective.
 
 ## License
 
@@ -146,7 +146,7 @@ This project is distributed under the MIT License. See the `LICENSE` file for de
 
 ## Contact
 
-For more information, questions, or collaboration inquiries, contact at:
+For more information, questions, or collaboration inquiries, contact:
 
 - Email: oj.caceres@uniandes.edu.co
 - LinkedIn: [https://www.linkedin.com/in/oswaldo-jose-caceres-leal/](https://www.linkedin.com/in/oswaldo-jose-caceres-leal/)
