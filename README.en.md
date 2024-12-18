@@ -135,4 +135,20 @@ plt.show()
 ```
 
 This code produces a word cloud from the aggregated text of all transcriptions, helping visualize the most frequently used words in the analyzed news segments.
-```
+
+## Contributions
+
+Contributions are welcome. Please open an **Issue** or a **Pull Request** with your suggestions, fixes, or improvements. Before contributing, review the project’s internal guidelines and ensure your contributions align with the overall objectives.
+
+## License
+
+This project is distributed under the MIT License. See the `LICENSE` file for details.
+
+## Contact
+
+For more information, questions, or collaboration inquiries, contact at:
+
+- Email: oj.caceres@uniandes.edu.co
+- LinkedIn: [https://www.linkedin.com/in/oswaldo-jose-caceres-leal/](https://www.linkedin.com/in/oswaldo-jose-caceres-leal/)
+
+---
